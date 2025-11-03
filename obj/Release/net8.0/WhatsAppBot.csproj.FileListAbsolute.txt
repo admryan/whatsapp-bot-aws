@@ -1,0 +1,14 @@
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\bin\Release\net8.0\WhatsAppBot.deps.json
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\bin\Release\net8.0\WhatsAppBot.dll
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\bin\Release\net8.0\WhatsAppBot.pdb
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\obj\Release\net8.0\WhatsAppBot.csproj.AssemblyReference.cache
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\obj\Release\net8.0\WhatsAppBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\obj\Release\net8.0\WhatsAppBot.AssemblyInfoInputs.cache
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\obj\Release\net8.0\WhatsAppBot.AssemblyInfo.cs
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\obj\Release\net8.0\WhatsAppBot.csproj.CoreCompileInputs.cache
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\obj\Release\net8.0\WhatsAppBot.dll
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\obj\Release\net8.0\refint\WhatsAppBot.dll
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\obj\Release\net8.0\WhatsAppBot.pdb
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\obj\Release\net8.0\ref\WhatsAppBot.dll
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\bin\Release\net8.0\WhatsAppBot.runtimeconfig.json
+D:\WhatsappBot\WhatsAppBot\WhatsAppBot\obj\Release\net8.0\WhatsAppBot.genruntimeconfig.cache

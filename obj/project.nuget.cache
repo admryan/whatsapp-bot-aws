@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOqk+lwc5BY=",
+  "success": true,
+  "projectFilePath": "D:\\WhatsappBot\\WhatsAppBot\\WhatsAppBot\\WhatsAppBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryanc\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
+    "C:\\Users\\ryanc\\.nuget\\packages\\amazon.lambda.core\\2.7.1\\amazon.lambda.core.2.7.1.nupkg.sha512",
+    "C:\\Users\\ryanc\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\ryanc\\.nuget\\packages\\awssdk.core\\4.0.0.32\\awssdk.core.4.0.0.32.nupkg.sha512",
+    "C:\\Users\\ryanc\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.7\\awssdk.dynamodbv2.4.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

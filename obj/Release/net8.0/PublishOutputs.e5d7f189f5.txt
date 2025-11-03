@@ -1,0 +1,9 @@
+D:\publish\WhatsAppBot.dll
+D:\publish\WhatsAppBot.deps.json
+D:\publish\WhatsAppBot.runtimeconfig.json
+D:\publish\WhatsAppBot.pdb
+D:\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\publish\Amazon.Lambda.Core.dll
+D:\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\publish\AWSSDK.Core.dll
+D:\publish\AWSSDK.DynamoDBv2.dll
